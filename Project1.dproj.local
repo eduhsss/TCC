@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/13 10:40:39.000.540,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/13 10:48:10.000.057,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/11/13 10:51:41.000.370,C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/11/13 11:03:51.000.602,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/11/13 11:04:50.000.138,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/11/13 11:05:32.000.888,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2018/11/13 11:58:48.000.958,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/11/13 13:30:59.000.862,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2018/11/13 13:37:52.000.086,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2018/11/13 14:12:34.000.939,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2018/11/13 14:21:11.000.485,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2018/11/13 14:23:34.000.713,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit11.pas</Transaction>
+    <Transaction>2018/11/13 14:37:47.000.980,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit12.pas</Transaction>
+    <Transaction>2018/11/13 14:42:39.000.382,=C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit13.pas</Transaction>
+    <Transaction>2018/11/14 14:23:29.000.854,C:\Users\alexr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas=</Transaction>
+    <Transaction>2018/11/21 14:32:31.000.539,=J:\Projects\Unit14.pas</Transaction>
+    <Transaction>2018/11/21 14:42:21.000.158,=J:\Projects\Unit15.pas</Transaction>
+    <Transaction>2018/11/26 09:24:02.000.680,=E:\Projects\Unit16.pas</Transaction>
+    <Transaction>2018/11/26 09:24:31.000.871,=E:\Projects\Unit17.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit10.pas"/>
+    <File Path="Unit10.dfm"/>
+    <File Path="Unit11.pas"/>
+    <File Path="Unit11.dfm"/>
+    <File Path="Unit12.pas"/>
+    <File Path="Unit12.dfm"/>
+    <File Path="Unit13.pas"/>
+    <File Path="Unit13.dfm"/>
+    <File Path="Unit14.pas"/>
+    <File Path="Unit14.dfm"/>
+    <File Path="Unit15.pas"/>
+    <File Path="Unit15.dfm"/>
+    <File Path="Unit16.pas"/>
+    <File Path="Unit16.dfm"/>
+    <File Path="Unit17.pas"/>
+    <File Path="Unit17.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+    <File Path="Unit9.pas"/>
+    <File Path="Unit9.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

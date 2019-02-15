@@ -1,0 +1,13 @@
+﻿[Button1]
+Coordinates=79,10,59,58
+Visible=True
+
+[(TMenuItem)]
+Coordinates=67,78,88,36
+
+[Button2]
+Coordinates=10,10,59,58
+
+[]
+Coordinates=156,56,91,36
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="5.3.14" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="43430,7751846644" ReportOptions.Description.Text="" ReportOptions.LastChange="43430,7973206713" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <Datasets>
+    <item DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario"/>
+  </Datasets>
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="300" PaperHeight="297" PaperSize="256" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGuides.Text="">
+    <TfrxPageHeader Name="PageHeader1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="105,82684" Left="0" Top="18,89765" Width="1058,2684">
+      <TfrxMemoView Name="Memo1" Left="355,27582" Top="3,77953" Width="336,37817" Height="30,23624" Font.Charset="1" Font.Color="-16777187" Font.Height="-24" Font.Name="Arial" Font.Style="1" ParentFont="False" Text="Formulário de Funcionários"/>
+    </TfrxPageHeader>
+    <TfrxMasterData Name="MasterData1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="151,1812" Left="0" Top="185,19697" Width="1058,2684" ColumnWidth="0" ColumnGap="0" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" RowCount="0">
+      <TfrxMemoView Name="Memo2" Left="0" Top="0" Width="49,13389" Height="18,89765" Text="Código:"/>
+      <TfrxMemoView Name="frxDBFuncionariocodfuncionario" Left="49,13389" Top="0" Width="79,37013" Height="18,89765" DataField="codfuncionario" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;codfuncionario&#34;]"/>
+      <TfrxMemoView Name="Memo3" Left="158,74026" Top="0" Width="75,5906" Height="18,89765" Text="Funcionário:"/>
+      <TfrxMemoView Name="frxDBFuncionarionomefuncionario" Left="238,11039" Top="0" Width="283,46475" Height="18,89765" DataField="nomefuncionario" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;nomefuncionario&#34;]"/>
+      <TfrxMemoView Name="Memo4" Left="525,35467" Top="0" Width="37,7953" Height="18,89765" Text="Sexo:"/>
+      <TfrxMemoView Name="frxDBFuncionarioSexo" Left="566,9295" Top="0" Width="71,81107" Height="18,89765" DataField="Sexo" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;Sexo&#34;]"/>
+      <TfrxMemoView Name="Memo5" Left="672,75634" Top="0" Width="26,45671" Height="18,89765" Text="RG:"/>
+      <TfrxMemoView Name="frxDBFuncionariorg" Left="702,99258" Top="0" Width="94,48825" Height="18,89765" DataField="rg" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;rg&#34;]"/>
+      <TfrxMemoView Name="Memo6" Left="823,93754" Top="0" Width="34,01577" Height="18,89765" Text="CPF:"/>
+      <TfrxMemoView Name="frxDBFuncionariocpf" Left="857,95331" Top="0" Width="120,94496" Height="18,89765" DataField="cpf" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;cpf&#34;]"/>
+      <TfrxMemoView Name="Memo7" Left="0" Top="37,7953" Width="49,13389" Height="18,89765" Text="Cidade:"/>
+      <TfrxMemoView Name="frxDBFuncionarioCidade" Left="49,13389" Top="37,7953" Width="166,29932" Height="18,89765" DataField="Cidade" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;Cidade&#34;]"/>
+      <TfrxMemoView Name="Memo8" Left="238,11039" Top="37,7953" Width="30,23624" Height="18,89765" Text="Rua:"/>
+      <TfrxMemoView Name="frxDBFuncionarioRua" Left="272,12616" Top="37,7953" Width="188,9765" Height="18,89765" DataField="Rua" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;Rua&#34;]"/>
+      <TfrxMemoView Name="Memo9" Left="525,35467" Top="37,7953" Width="94,48825" Height="18,89765" Text="Bairro:"/>
+      <TfrxMemoView Name="frxDBFuncionarioBairro" Left="623,62245" Top="37,7953" Width="173,85838" Height="18,89765" DataField="Bairro" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;Bairro&#34;]"/>
+      <TfrxMemoView Name="Memo10" Left="827,71707" Top="37,7953" Width="56,69295" Height="18,89765" Text="Numero:"/>
+      <TfrxMemoView Name="frxDBFuncionarionumerocasa" Left="888,18955" Top="37,7953" Width="79,37013" Height="18,89765" DataField="numerocasa" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;numerocasa&#34;]"/>
+      <TfrxMemoView Name="Memo11" Left="0" Top="75,5906" Width="49,13389" Height="18,89765" Text="Setor:"/>
+      <TfrxMemoView Name="frxDBFuncionarioSetor" Left="49,13389" Top="75,5906" Width="185,19697" Height="18,89765" DataField="Setor" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;Setor&#34;]"/>
+      <TfrxMemoView Name="Memo12" Left="238,11039" Top="75,5906" Width="49,13389" Height="18,89765" Text="Função:"/>
+      <TfrxMemoView Name="frxDBFuncionarioFuncao" Left="283,46475" Top="75,5906" Width="238,11039" Height="18,89765" DataField="Funcao" DataSet="frxDBFuncionario" DataSetName="frxDBFuncionario" Text="[frxDBFuncionario.&#34;Funcao&#34;]"/>
+    </TfrxMasterData>
+    <TfrxPageFooter Name="PageFooter1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="22,67718" Left="0" Top="396,85065" Width="1058,2684">
+      <TfrxSysMemoView Name="SysMemo1" Left="532,91373" Top="0" Width="94,48825" Height="18,89765" Text="[PAGE#] of [TOTALPAGES#]"/>
+    </TfrxPageFooter>
+  </TfrxReportPage>
+</TfrxReport>
